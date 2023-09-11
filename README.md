@@ -5,7 +5,7 @@
 > Languages and Frameworks I use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kotlin,dart,flutter,androidstudio,c,cpp,css,figma,git,html,idea,java,js,linux,mysql,nodejs,py,vercel,vscode, " />
+    <img src="https://skillicons.dev/icons?i=aws,kotlin,firebase,dart,flutter,androidstudio,c,cpp,css,figma,git,html,idea,java,js,linux,mysql,nodejs,py,netlify,vercel,vscode, " />
   </a>
 </p>
 
