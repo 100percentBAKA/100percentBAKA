@@ -11,6 +11,9 @@
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/100percentBAKA)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adarshgs/)
 
+### 📄 Resume
+[Download my resume](https://firebasestorage.googleapis.com/v0/b/general-purpose-file-storage.appspot.com/o/resume_april_update.pdf?alt=media&token=2f560708-e1f3-4b7f-a3f6-268a7263359e)
+
 ## 🛠️Skills
 
 ### I Code in
@@ -56,6 +59,3 @@
 </div>
 
 ![](https://i.imgur.com/waxVImv.png)
-
-
-
