@@ -27,7 +27,7 @@
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md)](https://github.com/100percentBAKA)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,linux,androidstudio,docker,vscode,idea,md)](https://github.com/100percentBAKA)
 
 <hr>
 
