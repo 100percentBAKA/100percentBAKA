@@ -23,7 +23,7 @@
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=spring,mongo,mysql,postgres,firebase,aws)](https://github.com/100percentBAKA)
+[![Backend](https://skillicons.dev/icons?i=spring,mongo,mysql,postgres,firebase,appwrite,aws)](https://github.com/100percentBAKA)
 
 ### Tools
 
