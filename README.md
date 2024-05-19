@@ -56,3 +56,23 @@
 </div>
 
 ![](https://i.imgur.com/waxVImv.png)
+
+## ⚒️Projects
+
+### Live Projects
+- [Aora Native](https://github.com/100percentBAKA/aora-native)
+- [Student Grievance Portal (Private)](https://github.com/100percentBAKA/student-grievance)
+- [Sf Admin Portal (Private)](https://github.com/100percentBAKA/sf-dashboard)
+- [Car Rental (Frontend)](https://github.com/100percentBAKA/car-rental-portal)
+- [Grocery Management Portal](https://github.com/100percentBAKA/grocery-management-portal)
+- [Real Estate Landing Page (Frontend)](https://github.com/100percentBAKA/mui-landing-page)
+- [FaxxShare](https://github.com/100percentBAKA/what-I-learnt)
+- [Compose Calculator](https://github.com/100percentBAKA/calculator-compose-app)
+
+### Practice
+- [Firebase](https://github.com/100percentBAKA/firebase-basics)
+- [React Query Basics](https://github.com/100percentBAKA/react-query)
+- [React Router Basics](https://github.com/100percentBAKA/react-router-basics)
+- [React Basic](https://github.com/100percentBAKA/react-basics)
+- [JS DOM Intermediate](https://github.com/100percentBAKA/javascript-dom-manipulation-intermediate)
+- [JS DOM Basics](https://github.com/100percentBAKA/javascript-dom-manipulation-basics)
