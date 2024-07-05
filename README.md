@@ -2,7 +2,7 @@
 
 ## About me
 
-### ✨ Currently learning progressive web applications, electronJS and react native
+### ✨ Currently learning progressive web applications and react native
 
 ### 🎯 Goals: Hustle to get into 0.1%
 
