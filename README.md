@@ -2,7 +2,7 @@
 
 ## About me
 
-### ✨ Currently learning progressive web applications and react native
+### ✨ Currently learning progressive web applications, genAI, and devOps
 
 ### 🎯 Goals: Hustle to get into 0.1%
 
